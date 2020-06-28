@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}Introduction}{2}%
+\contentsline {paragraph}{}{2}%
+\contentsline {subsection}{\numberline {1.1}History}{2}%
+\contentsline {paragraph}{}{2}%
+\contentsline {section}{\numberline {2}Government}{3}%
+\contentsline {subsection}{\numberline {2.1}Administrative Divisions}{4}%
+\contentsline {section}{\numberline {3}National and Official Symbols of India}{6}%
+\contentsline {subsection}{\numberline {3.1}Flag of India}{6}%
+\contentsline {subsection}{\numberline {3.2}National Motto}{6}%
+\contentsline {section}{\numberline {4}Vital Statistics}{7}%
+\contentsline {section}{\numberline {5}Indian Mathematics}{7}%
+\contentsline {subsection}{\numberline {5.1}Sulba Sutras}{8}%
+\contentsline {subsection}{\numberline {5.2}Pingala (300 BCE – 200 BCE)}{8}%
+\contentsline {subsection}{\numberline {5.3}Jain Mathematics}{8}%
+\contentsline {section}{\numberline {6}Inserting References}{9}%
+\contentsline {section}{References}{9}%
