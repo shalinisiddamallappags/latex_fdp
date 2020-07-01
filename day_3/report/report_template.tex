@@ -1,0 +1,51 @@
+\documentclass[12pt, a4paper]{report}
+%\usepackage[top=2cm, bottom=2cm,left=2cm, right=2cm, headsep=10pt, a4paper]{geometry}
+
+
+% For including SI Units
+%\usepackage{siunitx}
+
+% For including pdf documents
+%\usepackage{pdfpages}
+
+% To get customized headers and footers
+\usepackage{fancyhdr}
+%\usepackage{pslatex} % Need to check
+
+%\usepackage{mathptmx}
+\usepackage{titlesec}
+\usepackage{lipsum}
+
+% For including code
+%\usepackage[procnames]{listings}
+
+
+% For including links
+\usepackage{url}
+
+\usepackage{csquotes}
+%\usepackage{longtable}
+
+\lhead{Survey of Hybrid VANET Design }
+\lfoot{Dept. of CSE, AMCEC}
+\cfoot{ }
+\rfoot{\thepage}
+
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+
+%\usepackage{blindtext}
+\begin{document}
+\pagenumbering{roman}
+\addcontentsline{toc}{chapter}
+{ABSTRACT}
+\input{chapters/abstract.tex}
+	
+\tableofcontents
+\listoffigures
+\listoftables
+\input{chapters/chapter1}
+	
+	
+\end{document}
